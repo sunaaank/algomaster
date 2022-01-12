@@ -12,9 +12,9 @@
 
 
 ### 📒 문제
-|| sunaaank | stich9209 | vsnm25 |
-| :-: | :-: | :-: |:-: |
-| 1주차<br>(22.01.11~22.01.17) | [[프로그래머스]<br>더 맵게](link) | [[프로그래머스]<br>크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | [[백준]<br>평범한 배낭](https://www.acmicpc.net/problem/12865)
+| Week | Tag | sunaaank | stich9209 | vsnm25 |
+| :-: | :-: | :-: | :-: | :-: |
+| 1주차<br>(22.01.11~22.01.17) | Hash | [[프로그래머스]<br>완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [[프로그래머스]<br>전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [[프로그래머스]<br>위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 
 #### 참고자료
 - [프로그래머스 코딩테스트 연습 | 알고리즘 키트](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
