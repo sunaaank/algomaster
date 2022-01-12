@@ -16,9 +16,12 @@
 | :-: | :-: | :-: |:-: |
 | 1주차<br>(22.01.11~22.01.17) | [[프로그래머스]<br>더 맵게](link) | [[프로그래머스]<br>크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) | [[백준]<br>평범한 배낭](https://www.acmicpc.net/problem/12865)
 
+#### 참고자료
+- [프로그래머스 코딩테스트 연습 | 알고리즘 키트](https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+- [Codewars 라이브러리 | 알고리즘별 태그](https://www.codewars.com/kata/latest?tags=Hashes)
 
 
-🔜 깃 커밋 순서
+### 🔜 깃 커밋 순서
 
 ```bash
 git clone
