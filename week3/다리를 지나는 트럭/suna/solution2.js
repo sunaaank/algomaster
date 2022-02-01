@@ -6,7 +6,7 @@ function solution(bridge_length, weight, truck_weights) {
 
   while (onBridge.length > 0 || truck_weights.length > 0) {
     time++;
-    // 다리 위 첫번째 트럭의 올라간 시간에서 트럭 길이를 더한 시간이 현재 시간과 같다면
+    // 다리 위 첫번째 트럭의 올라간 시간에서 다리 길이를 더한 시간이 현재 시간과 같다면
     if (onBridge[0][1] + bridge_length === time) {
       // 다리 위 첫번째 트럭을 꺼내고
       let finishedTruckWeight = onBridge.shift()[0];
