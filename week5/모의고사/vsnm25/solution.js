@@ -1,6 +1,7 @@
 function correct(array, answers, index, count) {
-  if (index === answers.length) return count;
-  else {
+  if (index === 40) {
+    return count;
+  } else {
     if (array[index % array.length] === answers[index]) {
       count += 1;
     }
@@ -9,7 +10,7 @@ function correct(array, answers, index, count) {
   }
 }
 
-function solution(answers) {
+function solution1(answers) {
   const a = [1, 2, 3, 4, 5];
   const b = [2, 1, 2, 3, 2, 4, 2, 5];
   const c = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5];
@@ -31,7 +32,28 @@ function solution(answers) {
   return maxCounts.sort((a, b) => a - b);
 }
 
-solution([1, 2, 3, 4, 5]);
-solution([1, 3, 2, 4, 2]);
-solution([3, 3, 2, 1, 5]);
-solution([5, 5, 4, 2, 3]);
+solution1([1, 2, 3, 4, 5]);
+solution1([1, 3, 2, 4, 2]);
+solution1([3, 3, 2, 1, 5]);
+solution1([5, 5, 4, 2, 3]);
+
+function solution2(answers) {
+  const answer = [];
+  const a = [1, 2, 3, 4, 5];
+  const b = [2, 1, 2, 3, 2, 4, 2, 5];
+  const c = [3, 3, 1, 1, 2, 2, 4, 4, 5, 5];
+  const aCount = answers.filter((num, i) => num === a[i % 5]).length;
+  const bCount = answers.filter((num, i) => num === b[i % 8]).length;
+  const cCount = answers.filter((num, i) => num === c[i % 10]).length;
+  const max = Math.max(aCount, bCount, cCount);
+  if (aCount === max) answer.push(1);
+  if (bCount === max) answer.push(2);
+  if (cCount === max) answer.push(3);
+
+  return answer;
+}
+
+solution2([1, 2, 3, 4, 5]);
+solution2([1, 3, 2, 4, 2]);
+solution2([3, 3, 2, 1, 5]);
+solution2([5, 5, 4, 2, 3]);
