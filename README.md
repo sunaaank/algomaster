@@ -17,6 +17,7 @@
 | 2주차<br>(22.01.18~22.01.24) | Hash, Stack, Queue |     [[프로그래머스]<br>베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)     |    [[프로그래머스]<br>기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)     |     [[프로그래머스]<br>프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)     |
 | 3주차<br>(22.01.25~22.02.01) | Stack, Queue, Heap | [[프로그래머스]<br>다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [[프로그래머스]<br>디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [[프로그래머스]<br>이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) |
 | 4주차<br>(22.02.01~22.02.07) |     Heap, 정렬     |      [[프로그래머스]<br>K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)       |   [[프로그래머스]<br>가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)    |    [[프로그래머스]<br>H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)     |
+| 5주차<br>(22.02.08~22.02.14) |      완전탐색      |      [[프로그래머스]<br>모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)      |    [[프로그래머스]<br>소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)    |      [[프로그래머스]<br>카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)      |
 
 #### 참고자료
 
