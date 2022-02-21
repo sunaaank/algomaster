@@ -18,6 +18,7 @@
 | 3주차<br>(22.01.25~22.02.01) | Stack, Queue, Heap | [[프로그래머스]<br>다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [[프로그래머스]<br>디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [[프로그래머스]<br>이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) |
 | 4주차<br>(22.02.01~22.02.07) |     Heap, 정렬     |      [[프로그래머스]<br>K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)       |   [[프로그래머스]<br>가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)    |    [[프로그래머스]<br>H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)     |
 | 5주차<br>(22.02.08~22.02.14) |      완전탐색      |      [[프로그래머스]<br>모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)      |    [[프로그래머스]<br>소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)    |      [[프로그래머스]<br>카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)      |
+| 6주차<br>(22.02.15~22.02.21) |      BFS,DFS       |      [[프로그래머스]<br>타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)      |    [[프로그래머스]<br>네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)     |
 
 #### 참고자료
 
