@@ -1,9 +1,5 @@
 const solution = (n, r) => {
-  let _n;
-  let _r;
-  let _nr;
-  let _rr;
-  let _nrnr;
+  let _n, _r, _nr, _rr, _nrnr;
 
   const DFS = (level) => {
     if (level === 1) {
